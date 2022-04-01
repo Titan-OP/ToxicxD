@@ -36,10 +36,10 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on This Person..Cuz he is in Dev List."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"𝗬𝗲 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗸𝗮 𝗢𝘄𝗻𝗲𝗿 𝗵𝗮𝗶 𝗖𝗵𝘂𝘁𝗶𝘆𝗲."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -59,7 +59,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on This Person...Cuz he is in Dev List."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."
@@ -129,10 +129,10 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in RiZoeLX:
-                text = f" can't raid on @RiZoeLX's Owner."
+                text = f"I can't raid on This Person..Cuz he is in Dev List."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."            
+                text = f"𝗬𝗲 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗸𝗮 𝗢𝘄𝗻𝗲𝗿 𝗵𝗮𝗶 𝗖𝗵𝘂𝘁𝗶𝘆𝗲."            
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -153,7 +153,7 @@ async def _(e):
                 text = f" can't raid on @RiZoeLX's Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"𝗬𝗲 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗸𝗮 𝗢𝘄𝗻𝗲𝗿 𝗵𝗮𝗶 𝗖𝗵𝘂𝘁𝗶𝘆𝗲."
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -233,10 +233,10 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in RiZoeLX:
-                    text = f"I can't raid on @RiZoeLX's Owner"
+                    text = f"I can't raid on This Person..Cuz he is in Dev List."
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"𝗬𝗲 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗸𝗮 𝗢𝘄𝗻𝗲𝗿 𝗵𝗮𝗶 𝗖𝗵𝘂𝘁𝗶𝘆𝗲."
                 await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) in SUDO_USERS:
                     text = f"This guy is a sudo user."
@@ -257,10 +257,10 @@ async def _(event):
                b = await event.client.get_entity(a.sender_id)
                e = b.id
                if int(e) in RiZoeLX:
-                       text = f"I can't raid on @RiZoeLX's Owner"
+                       text = f"I can't raid on This Person..Cuz he is in Dev List."
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) == OWNER_ID:
-                       text = f"This guy is a owner Of this Bots."
+                       text = f"𝗬𝗲 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗸𝗮 𝗢𝘄𝗻𝗲𝗿 𝗵𝗮𝗶 𝗖𝗵𝘂𝘁𝗶𝘆𝗲."
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) in SUDO_USERS:
                        text = f"This guy is a sudo user."
