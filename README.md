@@ -32,6 +32,7 @@
 
 <details>
 <summary>☞ Oᴛʜᴇʀ Vᴀʀs ☜</summary>
+
 ⧐ `ALIVE_PIC` - **ᴀʟɪᴠᴇ ᴘɪᴄ ғᴏʀ ᴀʟɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅ !!**<br>
 
 ⧐ `CMD_HANDLR` - **ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀ ғᴏʀ ʙᴏᴛ !!**<br>
