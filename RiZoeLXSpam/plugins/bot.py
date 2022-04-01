@@ -12,14 +12,14 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/1359e3e0470cb8f8daa46.png"
   
 
-rizoel = "✯ 𝗥𝗶𝗭𝗼𝗲𝗟𝗫𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
+rizoel = "✯ 𝗧𝗼𝘅𝗶𝗰 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 ✯\n\n"
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-rizoel += f"• **ʀɪᴢᴏᴇʟXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"• **Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
 rizoel += f"═══════════════════\n\n"   
 
                                   
@@ -41,10 +41,10 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/ChatZonexD")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/D35TROY3R_KING")
         ]
         ]
         )
@@ -93,7 +93,35 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\nϟ ʀɪᴢᴏᴇʟ X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs")
+        await event.edit(f"""
+        ✘• Pᴏɴɢ •✘
+        ••➖➖➖➖➖➖••
+        📍 Pɪɴɢ Sᴘᴇᴇᴅ : {ms}ᴍs
+        😈 Tᴏxɪᴄ Oᴘ ʙᴏʟᴛᴇ 🔥
+        ••➖➖➖➖➖➖••
+               © @ToxicSpamOP
+        """)
+        
+        
+
+@Riz.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz2.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz3.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz4.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz5.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz6.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz7.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz8.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz9.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+@Riz10.on(events.NewMessage(incoming=True, pattern=r"\%stoxic(?: |$)(.*)" % hl))
+async def ping(e):
+    if e.sender_id in SUDO_USERS:
+        start = datetime.now()
+        text = "𝗧ᴏxɪᴄ 𝗦ᴘᴀᴍ𝗕ᴏᴛ🔥"
+        event = await e.reply(text, parse_mode=None, link_preview=None )
+        end = datetime.now()
+        ms = (end-start).microseconds / 1000
+        await event.edit(f"𝗧𝗢𝗫𝗜𝗖 𝗦𝗣𝗔𝗠 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘🥵🔥\nʀᴇᴀᴅʏ ᴛᴏ ғᴜᴄᴋ ʜᴀᴛᴇʀs..😈🖕")
         
         
 
@@ -109,7 +137,7 @@ async def ping(e):
 @Riz10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your RiZoeL X Spam**.. Please Wait Until It Starts Again"
+        text = "**Restarting Your Toxic SpamBot**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await Riz.disconnect()
