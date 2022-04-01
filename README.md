@@ -1,4 +1,4 @@
-## 😈 𝗧ᴏxɪᴄ 𝗦ᴘᴀᴍ𝗕ᴏᴛ 🔥 
+##😈 𝗧ᴏxɪᴄ 𝗦ᴘᴀᴍ𝗕ᴏᴛ 🔥
 
 <p align="center">
   <img src="https://te.legra.ph/file/1359e3e0470cb8f8daa46.png">
