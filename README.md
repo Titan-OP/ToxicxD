@@ -99,7 +99,7 @@
 
 --------
 ```
-Iғ ʏᴏᴜ ᴀʀᴇ ᴋᴀɴɢɪɴɢ | ᴄᴏᴘʏɪɴɢ ᴀɴʏ ᴘᴀʀᴛ ᴏғ ᴛʜᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ᴡɪᴛʜᴏᴜᴛ ғᴏʀᴋ, ᴛʜᴇɴ ᴀᴛʟᴇᴀsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ ᴏᴜʀ ʜᴀʀᴅᴡᴏʀᴋ ᴀɴᴅ sᴛᴀʀ ᴛʜɪs ʀᴇᴘᴏ. ❤️
+If you are kanging|taking any part of code from this repository without a fork, then atleast give credits to our hardwork & star to this repo.❤️
 
 ```
 --------
