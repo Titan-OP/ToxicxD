@@ -2,4 +2,4 @@ build:
   docker:
     Riz: Dockerfile
 run:
-  Riz: python3 -m ToxicSpamOP
+  Riz: python3 -m RiZoeLXSpam
