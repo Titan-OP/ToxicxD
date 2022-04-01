@@ -1,1 +1,1 @@
-Riz: python -m ToxicSpamOP
+Riz: python -m RiZoeLXSpam
