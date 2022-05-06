@@ -24,7 +24,7 @@ RizX_Button = [
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/ChatZonexD")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Titan-OP/ToxicxD")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/D35TROY3R_K1NG")
         ]
         ]
         
