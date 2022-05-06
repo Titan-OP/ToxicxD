@@ -1,7 +1,7 @@
 ## 😈𝗧ᴏxɪᴄ 𝗦ᴘᴀᴍ𝗕ᴏᴛ🔥
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1359e3e0470cb8f8daa46.png">
+  <img src="https://te.legra.ph/file/60a8f1c9b78eb33ed608c.png">
 </p>
 
 ----------------------
@@ -49,7 +49,7 @@
 
 ## 👥 Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
-📬 **Tᴇʟᴇɢʀᴀᴍ   :** [**𝗧ᴏxɪᴄ 𝗢ᴘ**](https://t.me/D35TROY3R_KING) 
+📬 **Tᴇʟᴇɢʀᴀᴍ   :** [**𝗧ᴏxɪᴄ 𝗢ᴘ**](https://t.me/D35TROY3R_K1NG) 
 
 
 
@@ -85,7 +85,7 @@
 
   - **Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ :** [**Jᴏɪɴ**](https://t.me/ChatZonexD)
    
-  - **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** [**Jᴏɪɴ**](https://t.me/ToxicSpamOP)
+  - **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** [**Jᴏɪɴ**](https://t.me/GULAMBI_SPAM_OPP)
 
 ----------------------
 
